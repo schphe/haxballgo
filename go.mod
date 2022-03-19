@@ -1,4 +1,4 @@
-module github.com/schphe/haxball
+module github.com/schphe/haxballgo
 
 go 1.16
 
