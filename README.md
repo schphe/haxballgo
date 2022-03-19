@@ -18,6 +18,10 @@
 
 ## 💡 Simple usage
 
+```
+go get github.com/schphe/haxballgo@0.0.1
+```
+
 ```go
 func main() {
   r := room.New()
